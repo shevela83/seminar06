@@ -1,0 +1,15 @@
+/Users/denisshevela/seminar06/hw02/bin/Debug/net7.0/hw02
+/Users/denisshevela/seminar06/hw02/bin/Debug/net7.0/hw02.deps.json
+/Users/denisshevela/seminar06/hw02/bin/Debug/net7.0/hw02.runtimeconfig.json
+/Users/denisshevela/seminar06/hw02/bin/Debug/net7.0/hw02.dll
+/Users/denisshevela/seminar06/hw02/bin/Debug/net7.0/hw02.pdb
+/Users/denisshevela/seminar06/hw02/obj/Debug/net7.0/hw02.csproj.AssemblyReference.cache
+/Users/denisshevela/seminar06/hw02/obj/Debug/net7.0/hw02.GeneratedMSBuildEditorConfig.editorconfig
+/Users/denisshevela/seminar06/hw02/obj/Debug/net7.0/hw02.AssemblyInfoInputs.cache
+/Users/denisshevela/seminar06/hw02/obj/Debug/net7.0/hw02.AssemblyInfo.cs
+/Users/denisshevela/seminar06/hw02/obj/Debug/net7.0/hw02.csproj.CoreCompileInputs.cache
+/Users/denisshevela/seminar06/hw02/obj/Debug/net7.0/hw02.dll
+/Users/denisshevela/seminar06/hw02/obj/Debug/net7.0/refint/hw02.dll
+/Users/denisshevela/seminar06/hw02/obj/Debug/net7.0/hw02.pdb
+/Users/denisshevela/seminar06/hw02/obj/Debug/net7.0/hw02.genruntimeconfig.cache
+/Users/denisshevela/seminar06/hw02/obj/Debug/net7.0/ref/hw02.dll
