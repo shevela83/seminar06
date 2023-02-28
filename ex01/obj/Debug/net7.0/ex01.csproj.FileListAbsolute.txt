@@ -1,0 +1,15 @@
+/Users/denisshevela/seminar06/ex01/bin/Debug/net7.0/ex01
+/Users/denisshevela/seminar06/ex01/bin/Debug/net7.0/ex01.deps.json
+/Users/denisshevela/seminar06/ex01/bin/Debug/net7.0/ex01.runtimeconfig.json
+/Users/denisshevela/seminar06/ex01/bin/Debug/net7.0/ex01.dll
+/Users/denisshevela/seminar06/ex01/bin/Debug/net7.0/ex01.pdb
+/Users/denisshevela/seminar06/ex01/obj/Debug/net7.0/ex01.csproj.AssemblyReference.cache
+/Users/denisshevela/seminar06/ex01/obj/Debug/net7.0/ex01.GeneratedMSBuildEditorConfig.editorconfig
+/Users/denisshevela/seminar06/ex01/obj/Debug/net7.0/ex01.AssemblyInfoInputs.cache
+/Users/denisshevela/seminar06/ex01/obj/Debug/net7.0/ex01.AssemblyInfo.cs
+/Users/denisshevela/seminar06/ex01/obj/Debug/net7.0/ex01.csproj.CoreCompileInputs.cache
+/Users/denisshevela/seminar06/ex01/obj/Debug/net7.0/ex01.dll
+/Users/denisshevela/seminar06/ex01/obj/Debug/net7.0/refint/ex01.dll
+/Users/denisshevela/seminar06/ex01/obj/Debug/net7.0/ex01.pdb
+/Users/denisshevela/seminar06/ex01/obj/Debug/net7.0/ex01.genruntimeconfig.cache
+/Users/denisshevela/seminar06/ex01/obj/Debug/net7.0/ref/ex01.dll
